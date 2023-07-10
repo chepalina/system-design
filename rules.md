@@ -1,3 +1,14 @@
+General questions
+- Who is going to use it?
+- How are they going to use it?
+- How many users are there?
+- What does the system do?
+- What are the inputs and outputs of the system?
+- How much data do we expect to handle?
+- How many requests per second do we expect?
+- What is the expected read to write ratio?
+  
+
 1. Формализация задачи, в рамках которой кандидат должен задать вопросы интервьюеру, например, уточнить что именно должна позволять делать система. Важно определить, а что является ключевым для системы, например:
 
 - high availability (высокая доступность)
@@ -6,7 +17,7 @@
 - scalability
 - auditability
 
-2.  Задать вопросы, которые позволят понять нагрузку на систему: 
+2.  Задать вопросы, которые позволят понять нагрузку на систему:
 
 - сколько пользователей будет
 - как будет выглядеть нагрузка от них (количество запросов)
